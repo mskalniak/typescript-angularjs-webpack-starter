@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "types": ["node", "angular", "angular-ui-router"]
+    },
+    "include": [
+        "src/app/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+  }
